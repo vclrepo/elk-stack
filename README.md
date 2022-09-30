@@ -1,3 +1,5 @@
-# ELK Stack Installation - OPEN FOR HACKTOBERFEST 2022
+# HIVE & CORTEX
 
-Docker Compose Installation for DOCKER & HIVE
+OPEN FOR HACKTOBERFEST 2022
+
+Docker Compose Installation for CORTEX & HIVE
